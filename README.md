@@ -1,9 +1,9 @@
 <h1>
   <a href="https://github.com/prefix-dev/pixi/">
     <picture>
-      <source srcset="https://github.com/prefix-dev/pixi/assets/4995967/a3f9ff01-c9fb-4893-83c0-2a3f924df63e" type="image/webp">
-      <source srcset="https://github.com/prefix-dev/pixi/assets/4995967/e42739c4-4cd9-49bb-9d0a-45f8088494b5" type="image/png">
-      <img src="https://github.com/prefix-dev/pixi/assets/4995967/e42739c4-4cd9-49bb-9d0a-45f8088494b5" alt="banner">
+      <source srcset="https://user-images.githubusercontent.com/4995967/260407431-a3f9ff01-c9fb-4893-83c0-2a3f924df63e.gif" type="image/webp">
+      <source srcset="https://user-images.githubusercontent.com/4995967/260406041-e42739c4-4cd9-49bb-9d0a-45f8088494b5.png" type="image/png">
+      <img src="https://user-images.githubusercontent.com/4995967/260406041-e42739c4-4cd9-49bb-9d0a-45f8088494b5.png" alt="banner">
     </picture>
   </a>
 </h1>
@@ -30,7 +30,7 @@
 
 Developed with ❤️ at [prefix.dev](https://prefix.dev).
 
-![Real-time pixi_demo](https://github.com/ruben-arts/pixi/assets/12893423/8b1a1273-a210-4be2-a664-32076c535428)
+![Real-time pixi_demo](https://user-images.githubusercontent.com/12893423/271618534-8b1a1273-a210-4be2-a664-32076c535428.svg)
 
 ## Highlights
 
